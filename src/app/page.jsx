@@ -49,7 +49,7 @@ const DATA = {
   ],
   projects: [
     { 
-        title: "Sports Designs", 
+        title: "Sports Design", 
         category: "Sports Branding", 
         img: "/images/gd/sd/manutd.webp",
         gallery: [ "/images/gd/sd/2.webp" ,"/images/gd/sd/2xp6.webp","/images/gd/sd/6.webp","/images/gd/sd/barpsg.webp","/images/gd/sd/d3.webp","/images/gd/sd/manutd.webp"] 
