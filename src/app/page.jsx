@@ -55,7 +55,7 @@ const DATA = {
         gallery: [ "/images/gd/sd/2.webp" ,"/images/gd/sd/2xp6.webp","/images/gd/sd/6.webp","/images/gd/sd/barpsg.webp","/images/gd/sd/d3.webp","/images/gd/sd/manutd.webp"] 
     },
     { 
-        title: "Poster Designs", 
+        title: "Poster Design", 
         category: "Poster Designs", 
         img: "/images/gd/pd/2.webp",
         gallery: ["/images/gd/pd/2.webp" ,"/images/gd/pd/1.webp","/images/gd/pd/3.webp","/images/gd/pd/4.webp","/images/gd/pd/5.webp"] 
